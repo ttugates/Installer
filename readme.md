@@ -23,7 +23,7 @@ The process of releasing an update is as simple as:
   - Extract this into a Shared Library, raising events instead of Message Boxes
   - Improve registry handling for combinations of x86 <=> x64 environment and build settings
   - Implement delete application exe on uninstall.
-    - Options are: Via registry entry to run once on restart
+    - Options are: via registry entry to run once on restart
     - Task scheduler?
     - Leave a minimal batch file
 - Add a certificate / gain reputation with Microsoft Smart Screen Filter
