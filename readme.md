@@ -9,6 +9,7 @@ Installer will become a class library for my WinForm Projects.
 - Silently, automatically stays updated when new releases are uploaded to GitHub
 - Able to store and load Dlls/Assemblies in single EXE file as embeded resource
 
+# Why
 Ultimately this provides a simple solution for updating and maintiaining code I have written.
 
 The process of releasing an update is as simple as:
