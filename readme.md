@@ -1,6 +1,6 @@
 # Installer
 
-Installer will become a template for my WinForm Projects.
+Installer will become a class library for my WinForm Projects.
 
 # Current Features
 - Fast, no fuss install
@@ -10,9 +10,12 @@ Installer will become a template for my WinForm Projects.
 - Able to store and load Dlls/Assemblies in single EXE file as embeded resource
 
 Ultimately this provides a simple solution for updating and maintiaining code I have written.
-The process of Releaasing an update is as simple as opening the GitHub site and clicking create release. Updating the Assembly version of the project in VS, building and dragging and dropping the exe to GitHub and editing the Tag to reflect the version.
 
-I do not necessarily have to store thge source code in a public GitHub which is nice. 
+The process of releasing an update is as simple as:
+- Opening the GitHub site and clicking create release. 
+- Updating the Assembly version of the project in VS
+- Building, dragging and dropping the exe to GitHub
+- And editing the Tag to reflect the version.
 
 # TODOs:
   - Address "this program may not have uninstalled properly" message
