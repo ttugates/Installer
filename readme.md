@@ -9,6 +9,11 @@ Installer will become a template for my WinForm Projects.
 - Silently, automatically stays updated when new releases are uploaded to GitHub
 - Able to store and load Dlls/Assemblies in single EXE file as embeded resource
 
+Ultimately this provides a simple solution for updating and maintiaining code I have written.
+The process of Releaasing an update is as simple as opening the GitHub site and clicking create release. Updating the Assembly version of the project in VS, building and dragging and dropping the exe to GitHub and editing the Tag to reflect the version.
+
+I do not necessarily have to store thge source code in a public GitHub which is nice. 
+
 # TODOs:
   - Address "this program may not have uninstalled properly" message
   - Extract this into a Shared Library, raising events instead of Message Boxes
