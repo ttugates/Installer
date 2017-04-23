@@ -1,9 +1,0 @@
-d:\us3rs\documents\visual studio 2017\Projects\RightClickSearch\RightClickSearch\bin\Debug\RightClickSearch.exe.config
-d:\us3rs\documents\visual studio 2017\Projects\RightClickSearch\RightClickSearch\bin\Debug\RightClickSearch.exe
-d:\us3rs\documents\visual studio 2017\Projects\RightClickSearch\RightClickSearch\bin\Debug\RightClickSearch.pdb
-d:\us3rs\documents\visual studio 2017\Projects\RightClickSearch\RightClickSearch\obj\Debug\RightClickSearch.csprojResolveAssemblyReference.cache
-d:\us3rs\documents\visual studio 2017\Projects\RightClickSearch\RightClickSearch\obj\Debug\RightClickSearch.Properties.Resources.resources
-d:\us3rs\documents\visual studio 2017\Projects\RightClickSearch\RightClickSearch\obj\Debug\RightClickSearch.csproj.GenerateResource.Cache
-d:\us3rs\documents\visual studio 2017\Projects\RightClickSearch\RightClickSearch\obj\Debug\RightClickSearch.exe
-d:\us3rs\documents\visual studio 2017\Projects\RightClickSearch\RightClickSearch\obj\Debug\RightClickSearch.pdb
-d:\us3rs\documents\visual studio 2017\Projects\RightClickSearch\RightClickSearch\obj\Debug\RightClickSearch.SearchForm.resources
